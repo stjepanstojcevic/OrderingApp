@@ -2,15 +2,12 @@
 
 A new Flutter project.
 
-## Getting Started
+![coffee](https://github.com/stjepanstojcevic/OrderingApp/assets/48209720/5482b627-61dd-4941-a35d-09a85e3bc133)
 
-This project is a starting point for a Flutter application.
+<img width="697" alt="Screenshot 2024-03-04 at 16 04 42" src="https://github.com/stjepanstojcevic/OrderingApp/assets/48209720/cbf00466-e197-4b61-9de7-5cc9597c0aae">
 
-A few resources to get you started if this is your first Flutter project:
+<img width="349" alt="Screenshot 2024-03-04 at 16 03 23" src="https://github.com/stjepanstojcevic/OrderingApp/assets/48209720/9da3fd29-cca4-4a72-a617-dcc83e57e7d2">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="349" alt="Screenshot 2024-03-04 at 16 04 04" src="https://github.com/stjepanstojcevic/OrderingApp/assets/48209720/1cb0f993-188c-44c0-812b-32edc99ae22e">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="878" alt="Screenshot 2024-03-04 at 16 04 17" src="https://github.com/stjepanstojcevic/OrderingApp/assets/48209720/8a9a4d78-20d9-42de-af09-999f359441c9">
